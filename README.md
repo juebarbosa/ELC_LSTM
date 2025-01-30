@@ -14,6 +14,7 @@ For obtaining the updated CityGML file, the tables for using in 3d webclient jus
 - download 3D web map client (documentation: https://3dcitydb-docs.readthedocs.io/en/latest/webmap/)
   - create an folder named "tables_data_households" inside the folder 3Dwebclient
   - the documentation explains how to export your CityGML file as Collada file so the visualisation is possible
+  - update the script.js file in the 3dwebclient folder with the script.js file that is in this repository
  
 - indtall in your envionroment the following python modules: pathlib, matplotlib, lxml, pandas, requests, geopy, pyproj, numpy, demandlib, keras, tensorflow, scikit-learn
 
