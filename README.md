@@ -1,3 +1,7 @@
+
+![visualisation1](https://github.com/user-attachments/assets/76be7847-fa90-402a-ba8d-8ceb90dd3ce7)
+![visualisation4](https://github.com/user-attachments/assets/5e8614cc-0d46-466b-a6f9-69c23a645e18)
+
 # ELC_LSTM
 Modeling Residential Energy Load Profiles with Semantic 3DCity Models and Machine Learning
 
